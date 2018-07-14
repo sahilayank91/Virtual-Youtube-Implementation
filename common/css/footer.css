@@ -1,0 +1,47 @@
+#Footer {
+	height : 200px;
+	background-color : #008B8B;
+}
+
+#footerTable {
+	margin-left : -5%;
+	margin-top : 5%;
+	padding : 100px;
+	width : 80%;
+	color : #008B8B;
+}
+
+#footerlogo {
+	width:150px;
+	height:150px;
+	margin-left:20%;
+	margin-top:7%;
+}
+
+.tableheader {
+	padding:4px;
+}
+
+.tabledata {
+	padding:4px;
+}
+
+.tabledata > a {
+	text-decoration : none;
+	color : white;"
+}
+
+.tabledata > a:hover {
+	text-decoration : none;
+	color : white;"
+}
+
+.tabledata > a:focus {
+	text-decoration : none;
+	color : white;"
+}
+
+.tabledata:hover {
+	background-color : black;
+}
+

@@ -1,0 +1,17 @@
+#Title {
+	font-family : Tahoma;
+	font-size : 15px;
+	background-color : #e9ece5;
+	border-left : 30px solid #008B8B;;
+	margin-left : -0.6%;
+	padding : 1px;
+	color : black;
+}
+
+#heading {
+	text-align : center;
+}
+
+#videos {
+	min-height : 250px;
+}

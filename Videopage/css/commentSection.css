@@ -1,0 +1,172 @@
+#oldCommentSection {
+	padding : 0px;
+	margin : 0px;
+}
+
+#videoDescription {
+	padding : 10px;
+	font-style : italic;
+	color : green;
+	font-size : 
+}
+
+.oldComment {
+	padding : 20px;
+	/* border-radius : 10px; */
+	background-color : black;
+	color : white;
+}
+
+#commentTextArea {
+	font-size : 12px;
+	resize:none;
+	overflow:hidden;
+}
+
+#commentSubmit {
+	margin-top : 5px;
+}
+
+#Commenter {
+	font-size : 15px;
+}
+
+#Commenter > a {
+	color : white;
+	text-decoration : none;
+}
+
+#Commenter > a:hover {
+	color : red;
+	text-decoration : none;
+}
+
+#CommentingTime {
+	padding-bottom : 5px;
+	padding-left : 48px;
+	font-size : 8px;
+	color : gray;
+}
+
+#commentContent {
+	padding : 10px;
+	background-color : red;
+	border-radius : 5px;
+	color : white;
+	font-size : 10px;
+}
+
+.commentList {
+	padding: 10px;
+	list-style : none;
+	font-size : 8px;
+}
+
+.commentList {
+	text-decoration : none;
+	list-style : none;
+	color : white;
+	font-size : 10px;
+}
+
+.commentList:hover {
+	text-decoration : none;
+	list-style : none;
+	color : red;
+	font-size : 10px;
+	cursor : default;
+}
+
+.REPLY {
+	display : none;
+}
+
+#oldreply {
+	border-radius : 10px;
+	background-color : black;
+	color : black;
+}
+
+#Replier {
+	font-size : 10px;
+}
+
+#Replier > a {
+	color : white;
+	text-decoration : none;
+}
+
+#Replier> a:hover {
+	color : red;
+	text-decoration : none;
+}
+
+#ReplyingTime {
+	padding-bottom : 5px;
+	padding-left : 48px;
+	font-size : 8px;
+	color  :gray;
+}
+
+#replyContent {
+	padding : 10px;
+	border-radius : 5px;
+	background-color : red;
+	color : white;
+	margin-left : 15px;
+	font-size : 10px;
+}
+
+.replyList {
+	padding: 10px;
+	list-style : none;
+	font-size : 8px;
+	color : white;
+	cursor : default;
+	text-decoration : none;
+	list-style : none;
+	color : white;
+	font-size : 10px;
+}
+
+#replySubmit {
+	margin-left : 10px;
+	color : white;
+	outline : none;
+	font-size : 10px;
+	border-radius : 5px;
+	width : 15%;
+	border : 0px;	
+	height : 20px;
+	background-color : black;
+	border : 2px solid teal;
+	box-shadow : 2px 3px 10px teal;
+}
+
+#replySubmit:hover{
+	color : teal;
+}
+
+#replyTextArea {
+	padding : 5px;
+	padding-left : 10px;
+	font-size : 10px;
+	resize:none;
+	overflow:hidden;
+}
+
+
+.replyList:hover {
+	text-decoration : none;
+	list-style : none;
+	color : red;
+	font-size : 10px;
+}
+
+#replyTextArea {
+	margin-left : 2%;
+	outline : none;
+	color : black;
+	height : 30px;
+	border-radius : 10px;
+}

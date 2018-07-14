@@ -1,0 +1,43 @@
+#livesearch {
+	z-index : 1;
+	width : 500px;
+	position : fixed;
+	background-color : white;
+}
+
+.container-fluid {
+	height : 60px;
+	background-color : #008B8B;
+	
+}
+
+#livesearch > a {
+	text-decoration : none;	
+}
+
+#livesearch > a > li {
+	width : 100%;
+	font: italic bold 12px/30px Georgia, serif;
+	margin-left : 2%;
+	padding : 0px;
+	color : black;
+	list-style : none;
+	outline : none;
+}
+
+#livesearch > a:hover > li{
+	margin : 0px;
+	padding-left : 2%;
+	background-color : #ededed;
+	border-left : 3px solid black;
+}
+
+#sidebar {
+	margin-left : -13px;
+	padding : 0px;
+}
+
+/* navbar */
+.container-fluid {
+	margin-top : -2px;
+}

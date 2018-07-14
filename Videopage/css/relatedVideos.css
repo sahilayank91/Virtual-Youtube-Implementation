@@ -1,0 +1,129 @@
+#commentTextArea {
+	border-radius : 5px;
+	min-height : 20px;
+	outline : none;
+	padding : 5px 10px 5px 10px;
+}
+
+.detailsList {
+	padding : 10px;
+	font-size : 12px;
+	list-style : none;
+	text-align : center;
+}
+
+.detailsList > a:hover {
+	color : red;
+	text-decoration : none;
+}
+
+.detailsList > a {
+	text-decoration : none;
+	color : black;
+}
+
+#uploaderName {
+	font-size : 20px;
+}
+
+#uploaderName > a {
+	color : black;
+}
+
+#uploaderName > a:hover {
+	color : orange;
+	text-decoration : none;
+}
+
+#uploadingTime {
+	margin-left : 35px;
+	font-size : 10px;
+}
+
+#commentSubmit {
+	margin-top : 10px;
+	outline : none;
+	padding : 5px;
+	border-radius : 7px;
+	background-color : black;
+	color : white;
+}
+
+#VideoPlayer {
+	padding : 0px;
+	margin : 0px;
+}
+
+#VideoDetails {
+	min-height : 150px;
+	width : 96.4%;
+	padding-top : 20px;
+	margin : 10px 0px 0px 15px;
+	border-radius : 4px;
+}
+
+#VideoComments {
+	width : 96.4%;
+	min-height : 500px;
+	margin : 10px 0px 40px 15px;
+	background-color : #e9ece5;
+}
+
+#sideTitle {	
+	background-color : #e9ece5;
+	border-left : 15px solid #311b92;
+	color : black;
+}
+
+#sideheading {
+	font-size : 20px;
+	text-align : center;
+}
+
+#sideVideos {
+	padding : 10px 0px 20px 50px;
+}
+
+#sideVideoLayout {
+	width : 80%;
+	margin-bottom : 20px;
+	box-shadow : 1px 1px 10px black;
+}
+
+#sideVideoImage {
+	width : 100%;
+}
+
+#sideVideoName {
+	text-align : center;
+	background-color : white;
+	width : 100%;
+	height : 30px;
+	line-height : 35px;
+	padding : 0px;
+	margin : 0px;
+}
+
+#watch {
+	width : 100%;
+	height : 30px;
+	line-height : 30px;
+	text-align : center;
+	background-color : black;
+	color : white;
+	text-decoration : none;
+}
+
+.sideWatchAnchor,.sideWatchAnchor:hover {
+	text-decoration : none;
+	width : 80%;
+}
+
+.image {
+	width : 100%;
+	height : 100px;
+}
+
+.image:hover {
+	opacity : 0.7;
+}
